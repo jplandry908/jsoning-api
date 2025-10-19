@@ -153,6 +153,9 @@ Launch tests
 $ npm test
 ```
 
+## Contributing
+Contributions are welcome! If you have ideas, improvements, or bug fixes, feel free to submit a pull request. Please ensure your changes keep things simple and easy to maintain. Thank you for helping make this project better!
+
 ## License
 
 MIT License
